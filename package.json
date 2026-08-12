@@ -1,6 +1,6 @@
 {
   "name": "casbin-sequelize-adapter",
-  "version": "2.2.0",
+  "version": "2.7.1-lineaje-01",
   "description": "Sequelize adapter for Casbin",
   "main": "lib/adapter.js",
   "typings": "lib/adapter.d.ts",
@@ -50,7 +50,7 @@
   "homepage": "https://casbin.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-casbin/sequelize-adapter.git"
+    "url": "https://github.com/lineaje-labs-gos/node-casbin-sequelize-adapter"
   },
   "keywords": [
     "casbin",
