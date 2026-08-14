@@ -105,11 +105,15 @@
   "overrides": {
     "sequelize": ">=6.37.8",
     "minimatch": ">=3.1.5",
-    "brace-expansion": ">=1.1.18"
+    "brace-expansion": ">=1.1.18",
+    "semver": ">=7.8.5",
+    "lodash": ">=4.18.1"
   },
   "resolutions": {
     "sequelize": ">=6.37.8",
     "minimatch": ">=3.1.5",
-    "brace-expansion": ">=1.1.18"
+    "brace-expansion": ">=1.1.18",
+    "semver": ">=7.8.5",
+    "lodash": ">=4.18.1"
   }
 }
